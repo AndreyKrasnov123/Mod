@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef>
+    <defName>Test</defName>
+    <label>testing</label>
+    <category>Misc</category>
+	 <letterLabel>Test text</letterLabel>
+    <letterText>Test text</letterText>
+    <letterDef>ThreatBig</letterDef>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>testmod.Events.IncedentWorker_tesincedent</workerClass>
+    <baseChance>99</baseChance>
+    <minRefireDays>0</minRefireDays>
+  </IncidentDef>
+
+</Defs>

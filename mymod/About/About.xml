@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>mod</name>
+	<author>Sarg</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Mymod</displayName>
+		</li>
+	</modDependencies>
+	<packageId>sarg.smartspeed</packageId>
+	<description>TEST
+	</description>
+</ModMetaData>
